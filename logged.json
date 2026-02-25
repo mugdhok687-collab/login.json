@@ -1,10 +1,10 @@
 {
   "version": "2.0.0.0",
-  "expiry_date": "2026-03-01",
+  "expiry_date": "2025-03-01",
   "users": [
     {
-      "username": "admin",
-      "password": "12345"
+      "username": "admin2026",
+      "password": "123456789"
     }
   ]
 }
