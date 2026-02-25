@@ -3,8 +3,8 @@
   "expiry_date": "2025-02-26",
   "users": [
     {
-      "username": "admin",
-      "password": "12345"
+      "username": "admin1",
+      "password": "12345p"
     }
   ]
 }
