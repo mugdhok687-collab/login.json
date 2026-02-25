@@ -1,10 +1,6 @@
 {
-  "version": "1.0.0.0",
-  "expiry_date": "2026-02-26",
+  "version": "1.0.0",
   "users": [
-    {
-      "username": "MXC",
-      "password": "MUGDHO"
-    }
+    { "username": "admin", "password": "12345" }
   ]
 }
